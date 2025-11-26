@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Visualizar XML - NF-e Soberana</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      margin: 0;
+      padding: 16px;
+      background: #0f172a;
+      color: #e5e7eb;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    h1 {
+      font-size: 1.2rem;
+      margin: 0;
+    }
+
+    .card {
+      background: #020617;
+      border-radius: 12px;
+      padding: 16px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+      border: 1px solid #1e293b;
+    }
+
+    button {
+      padding: 8px 16px;
+      border-radius: 999px;
+      border: none;
+      cursor: pointer;
+      font-weight: 600;
+      font-size: 0.9rem;
+      background: linear-gradient(135deg, #22c55e, #16a34a);
+      color: #022c22;
+      box-shadow: 0 8px 20px rgba(22, 163, 74, 0.4);
+      transition: transform 0.1s ease, box-shadow 0.1s ease, opacity 0.1s ease;
+    }
+
+    button:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+      box-shadow: none;
+    }
+
+    button:hover:not(:disabled) {
+      transform: translateY(-1px);
+      box-shadow: 0 10px 25px rgba(22, 163, 74, 0.55);
+    }
+
+    pre {
+      max-height: 70vh;
+      overflow: auto;
+      background: #020617;
+      border-radius: 10px;
+      padding: 12px;
+      font-family: "JetBrains Mono", "Fira Code", Consolas, monospace;
+      font-size: 0.8rem;
+      line-height: 1.4;
+      border: 1px solid #1f2937;
+      white-space: pre;
+    }
+
+    .status {
+      font-size: 0.8rem;
+      color: #9ca3af;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Visualizador de XML - NF-e Soberana</h1>
+    <p class="status" id="status">
+      Carregando arquivo <strong>soberana.xml</strong>...
+    </p>
+    <button id="downloadBtn" disabled>Baixar XML</button>
+  </div>
+
+  <pre id="xmlViewer"></pre>
+
+  <script>
+    async function carregarXml() {
+      const viewer = document.getElementById('xmlViewer');
+      const status = document.getElementById('status');
+      const downloadBtn = document.getElementById('downloadBtn');
+
+      try {
+        // Troque o nome do arquivo aqui, se o XML tiver outro nome
+        const response = await fetch('soberana.xml');
+
+        if (!response.ok) {
+          throw new Error('Não foi possível carregar "soberana.xml". Verifique se o arquivo está na mesma pasta do HTML.');
+        }
+
+        const xmlText = await response.text();
+
+        // Exibe o XML puro na tela
+        viewer.textContent = xmlText;
+        status.textContent = 'XML carregado com sucesso.';
+
+        // Prepara o download via Blob
+        const blob = new Blob([xmlText], { type: 'application/xml' });
+        const url = URL.createObjectURL(blob);
+
+        downloadBtn.disabled = false;
+        downloadBtn.addEventListener('click', () => {
+          const a = document.createElement('a');
+          a.href = url;
+          a.download = 'soberana.xml'; // pode trocar o nome aqui se quiser
+          document.body.appendChild(a);
+          a.click();
+          document.body.removeChild(a);
+        });
+      } catch (err) {
+        viewer.textContent = '';
+        status.textContent = 'Erro ao carregar o XML: ' + err.message;
+      }
+    }
+
+    carregarXml();
+  </script>
+</body>
+</html>
