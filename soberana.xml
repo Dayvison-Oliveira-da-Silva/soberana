@@ -1,480 +1,480 @@
 <det nItem="1">
-                <prod>
-                    <cProd>FA02</cProd>
-                    <cEAN>7898935525339</cEAN>
-                    <xProd>FARINHA CRUZEIRO (BRANCA) SOBERANA</xProd>
-                    <NCM>11062000</NCM>
-                    <CFOP>5102</CFOP>
-                    <uCom>PCT</uCom>
-                    <qCom>1.0000</qCom>
-                    <vUnCom>3.8400</vUnCom>
-                    <vProd>3.84</vProd>
-                    <cEANTrib>7898935525339</cEANTrib>
-                    <uTrib>PCT</uTrib>
-                    <qTrib>1.0000</qTrib>
-                    <vUnTrib>3.8400</vUnTrib>
-                    <indTot>1</indTot>
-                </prod>
-                <dimensoesProduto>
-                    <altura unidade="CMT">24</altura>
-                    <largura unidade="CMT">13</largura>
-                    <comprimento unidade="CMT">1</comprimento>
-                </dimensoesProduto>
-                <imposto>
-                    <vTotTrib>1.28</vTotTrib>
-                    <ICMS>
-                        <ICMS40>
-                            <orig>0</orig>
-                            <CST>40</CST>
-                        </ICMS40>
-                    </ICMS>
-                    <IPI>
-                        <cEnq>999</cEnq>
-                        <IPINT>
-                            <CST>52</CST>
-                        </IPINT>
-                    </IPI>
-                    <PIS>
-                        <PISNT>
-                            <CST>06</CST>
-                        </PISNT>
-                    </PIS>
-                    <COFINS>
-                        <COFINSNT>
-                            <CST>06</CST>
-                        </COFINSNT>
-                    </COFINS>
-                </imposto>
-            </det>
-            <det nItem="2">
-                <prod>
-                    <cProd>GO06</cProd>
-                    <cEAN>7898935525339</cEAN>
-                    <xProd>FARINHA CRUZEIRO (BRANCA) SOBERANA</xProd>
-                    <NCM>11062000</NCM>
-                    <CFOP>5102</CFOP>
-                    <uCom>PCT</uCom>
-                    <qCom>1.0000</qCom>
-                    <vUnCom>10.0000</vUnCom>
-                    <vProd>10.00</vProd>
-                    <cEANTrib>7898935525339</cEANTrib>
-                    <uTrib>PCT</uTrib>
-                    <qTrib>1.0000</qTrib>
-                    <vUnTrib>10.0000</vUnTrib>
-                    <indTot>1</indTot>
-                </prod>
-                <dimensoesProduto>
-                    <altura unidade="CMT">24</altura>
-                    <largura unidade="CMT">13</largura>
-                    <comprimento unidade="CMT">1</comprimento>
-                </dimensoesProduto>
-                <imposto>
-                    <vTotTrib>3.35</vTotTrib>
-                    <ICMS>
-                        <ICMS40>
-                            <orig>0</orig>
-                            <CST>40</CST>
-                        </ICMS40>
-                    </ICMS>
-                    <IPI>
-                        <cEnq>999</cEnq>
-                        <IPINT>
-                            <CST>52</CST>
-                        </IPINT>
-                    </IPI>
-                    <PIS>
-                        <PISNT>
-                            <CST>06</CST>
-                        </PISNT>
-                    </PIS>
-                    <COFINS>
-                        <COFINSNT>
-                            <CST>06</CST>
-                        </COFINSNT>
-                    </COFINS>
-                </imposto>
-            </det>
-            <det nItem="3">
-                <prod>
-                    <cProd>FA07</cProd>
-                    <cEAN>7898935525353</cEAN>
-                    <xProd>FARINHA CRUZEIRO (PREMIUM) SOBERANA</xProd>
-                    <NCM>11062000</NCM>
-                    <CFOP>5102</CFOP>
-                    <uCom>PCT</uCom>
-                    <qCom>1.0000</qCom>
-                    <vUnCom>4.5200</vUnCom>
-                    <vProd>4.52</vProd>
-                    <cEANTrib>7898935525353</cEANTrib>
-                    <uTrib>PCT</uTrib>
-                    <qTrib>1.0000</qTrib>
-                    <vUnTrib>4.5200</vUnTrib>
-                    <indTot>1</indTot>
-                </prod>
-                <dimensoesProduto>
-                    <altura unidade="CMT">24</altura>
-                    <largura unidade="CMT">13</largura>
-                    <comprimento unidade="CMT">1</comprimento>
-                </dimensoesProduto>
-                <imposto>
-                    <vTotTrib>1.51</vTotTrib>
-                    <ICMS>
-                        <ICMS40>
-                            <orig>0</orig>
-                            <CST>40</CST>
-                        </ICMS40>
-                    </ICMS>
-                    <IPI>
-                        <cEnq>999</cEnq>
-                        <IPINT>
-                            <CST>52</CST>
-                        </IPINT>
-                    </IPI>
-                    <PIS>
-                        <PISNT>
-                            <CST>06</CST>
-                        </PISNT>
-                    </PIS>
-                    <COFINS>
-                        <COFINSNT>
-                            <CST>06</CST>
-                        </COFINSNT>
-                    </COFINS>
-                </imposto>
-            </det>
-            <det nItem="4">
-                <prod>
-                    <cProd>GO07</cProd>
-                    <cEAN>7898935525346</cEAN>
-                    <xProd>FARINHA DA OVA SOBERANA</xProd>
-                    <NCM>11062000</NCM>
-                    <CFOP>5102</CFOP>
-                    <uCom>PCT</uCom>
-                    <qCom>1.0000</qCom>
-                    <vUnCom>10.0000</vUnCom>
-                    <vProd>10.00</vProd>
-                    <cEANTrib>7898935525346</cEANTrib>
-                    <uTrib>PCT</uTrib>
-                    <qTrib>1.0000</qTrib>
-                    <vUnTrib>10.0000</vUnTrib>
-                    <indTot>1</indTot>
-                </prod>
-                <dimensoesProduto>
-                    <altura unidade="CMT">24</altura>
-                    <largura unidade="CMT">13</largura>
-                    <comprimento unidade="CMT">1</comprimento>
-                </dimensoesProduto>
-                <imposto>
-                    <vTotTrib>3.35</vTotTrib>
-                    <ICMS>
-                        <ICMS40>
-                            <orig>0</orig>
-                            <CST>40</CST>
-                        </ICMS40>
-                    </ICMS>
-                    <IPI>
-                        <cEnq>999</cEnq>
-                        <IPINT>
-                            <CST>52</CST>
-                        </IPINT>
-                    </IPI>
-                    <PIS>
-                        <PISNT>
-                            <CST>06</CST>
-                        </PISNT>
-                    </PIS>
-                    <COFINS>
-                        <COFINSNT>
-                            <CST>06</CST>
-                        </COFINSNT>
-                    </COFINS>
-                </imposto>
-            </det>
-            <det nItem="5">
-                <prod>
-                    <cProd>FA03</cProd>
-                    <cEAN>7898935525346</cEAN>
-                    <xProd>FARINHA DA OVA SOBERANA</xProd>
-                    <NCM>11062000</NCM>
-                    <CFOP>5102</CFOP>
-                    <uCom>PCT</uCom>
-                    <qCom>1.0000</qCom>
-                    <vUnCom>5.3100</vUnCom>
-                    <vProd>5.31</vProd>
-                    <cEANTrib>7898935525346</cEANTrib>
-                    <uTrib>PCT</uTrib>
-                    <qTrib>1.0000</qTrib>
-                    <vUnTrib>5.3100</vUnTrib>
-                    <indTot>1</indTot>
-                </prod>
-                <dimensoesProduto>
-                    <altura unidade="CMT">24</altura>
-                    <largura unidade="CMT">13</largura>
-                    <comprimento unidade="CMT">1</comprimento>
-                </dimensoesProduto>
-                <imposto>
-                    <vTotTrib>1.78</vTotTrib>
-                    <ICMS>
-                        <ICMS40>
-                            <orig>0</orig>
-                            <CST>40</CST>
-                        </ICMS40>
-                    </ICMS>
-                    <IPI>
-                        <cEnq>999</cEnq>
-                        <IPINT>
-                            <CST>52</CST>
-                        </IPINT>
-                    </IPI>
-                    <PIS>
-                        <PISNT>
-                            <CST>06</CST>
-                        </PISNT>
-                    </PIS>
-                    <COFINS>
-                        <COFINSNT>
-                            <CST>06</CST>
-                        </COFINSNT>
-                    </COFINS>
-                </imposto>
-            </det>
-            <det nItem="6">
-                <prod>
-                    <cProd>FA06</cProd>
-                    <cEAN>7898935525360</cEAN>
-                    <xProd>FARINHA DA OVINHA DE FEIRA PREMIUM SOBERANA</xProd>
-                    <NCM>11062000</NCM>
-                    <CFOP>5102</CFOP>
-                    <uCom>PCT</uCom>
-                    <qCom>1.0000</qCom>
-                    <vUnCom>6.7600</vUnCom>
-                    <vProd>6.76</vProd>
-                    <cEANTrib>7898935525360</cEANTrib>
-                    <uTrib>PCT</uTrib>
-                    <qTrib>1.0000</qTrib>
-                    <vUnTrib>6.7600</vUnTrib>
-                    <indTot>1</indTot>
-                </prod>
-                <dimensoesProduto>
-                    <altura unidade="CMT">24</altura>
-                    <largura unidade="CMT">13</largura>
-                    <comprimento unidade="CMT">1</comprimento>
-                </dimensoesProduto>
-                <imposto>
-                    <vTotTrib>2.26</vTotTrib>
-                    <ICMS>
-                        <ICMS40>
-                            <orig>0</orig>
-                            <CST>40</CST>
-                        </ICMS40>
-                    </ICMS>
-                    <IPI>
-                        <cEnq>999</cEnq>
-                        <IPINT>
-                            <CST>52</CST>
-                        </IPINT>
-                    </IPI>
-                    <PIS>
-                        <PISNT>
-                            <CST>06</CST>
-                        </PISNT>
-                    </PIS>
-                    <COFINS>
-                        <COFINSNT>
-                            <CST>06</CST>
-                        </COFINSNT>
-                    </COFINS>
-                </imposto>
-            </det>
-            <det nItem="7">
-                <prod>
-                    <cProd>GO08</cProd>
-                    <cEAN>7898935525322</cEAN>
-                    <xProd>FARINHA DA OVINHA SOBERANA</xProd>
-                    <NCM>11062000</NCM>
-                    <CFOP>5102</CFOP>
-                    <uCom>PCT</uCom>
-                    <qCom>1.0000</qCom>
-                    <vUnCom>10.0000</vUnCom>
-                    <vProd>10.00</vProd>
-                    <cEANTrib>7898935525322</cEANTrib>
-                    <uTrib>PCT</uTrib>
-                    <qTrib>1.0000</qTrib>
-                    <vUnTrib>10.0000</vUnTrib>
-                    <indTot>1</indTot>
-                </prod>
-                <dimensoesProduto>
-                    <altura unidade="CMT">24</altura>
-                    <largura unidade="CMT">13</largura>
-                    <comprimento unidade="CMT">1</comprimento>
-                </dimensoesProduto>
-                <imposto>
-                    <vTotTrib>3.35</vTotTrib>
-                    <ICMS>
-                        <ICMS40>
-                            <orig>0</orig>
-                            <CST>40</CST>
-                        </ICMS40>
-                    </ICMS>
-                    <IPI>
-                        <cEnq>999</cEnq>
-                        <IPINT>
-                            <CST>52</CST>
-                        </IPINT>
-                    </IPI>
-                    <PIS>
-                        <PISNT>
-                            <CST>06</CST>
-                        </PISNT>
-                    </PIS>
-                    <COFINS>
-                        <COFINSNT>
-                            <CST>06</CST>
-                        </COFINSNT>
-                    </COFINS>
-                </imposto>
-            </det>
-            <det nItem="8">
-                <prod>
-                    <cProd>FA01</cProd>
-                    <cEAN>7898935525322</cEAN>
-                    <xProd>FARINHA DA OVINHA SOBERANA</xProd>
-                    <NCM>11062000</NCM>
-                    <CFOP>5102</CFOP>
-                    <uCom>PCT</uCom>
-                    <qCom>1.0000</qCom>
-                    <vUnCom>6.2000</vUnCom>
-                    <vProd>6.20</vProd>
-                    <cEANTrib>7898935525322</cEANTrib>
-                    <uTrib>PCT</uTrib>
-                    <qTrib>1.0000</qTrib>
-                    <vUnTrib>6.2000</vUnTrib>
-                    <indTot>1</indTot>
-                </prod>
-                <dimensoesProduto>
-                    <altura unidade="CMT">24</altura>
-                    <largura unidade="CMT">13</largura>
-                    <comprimento unidade="CMT">1</comprimento>
-                </dimensoesProduto>
-                <imposto>
-                    <vTotTrib>2.07</vTotTrib>
-                    <ICMS>
-                        <ICMS40>
-                            <orig>0</orig>
-                            <CST>40</CST>
-                        </ICMS40>
-                    </ICMS>
-                    <IPI>
-                        <cEnq>999</cEnq>
-                        <IPINT>
-                            <CST>52</CST>
-                        </IPINT>
-                    </IPI>
-                    <PIS>
-                        <PISNT>
-                            <CST>06</CST>
-                        </PISNT>
-                    </PIS>
-                    <COFINS>
-                        <COFINSNT>
-                            <CST>06</CST>
-                        </COFINSNT>
-                    </COFINS>
-                </imposto>
-            </det>
-            <det nItem="9">
-                <prod>
-                    <cProd>FA05</cProd>
-                    <cEAN>7898935525308</cEAN>
-                    <xProd>FARINHA DAGUA SOBERANA</xProd>
-                    <NCM>11062000</NCM>
-                    <CFOP>5102</CFOP>
-                    <uCom>PCT</uCom>
-                    <qCom>1.0000</qCom>
-                    <vUnCom>3.7300</vUnCom>
-                    <vProd>3.73</vProd>
-                    <cEANTrib>7898935525308</cEANTrib>
-                    <uTrib>PCT</uTrib>
-                    <qTrib>1.0000</qTrib>
-                    <vUnTrib>3.7300</vUnTrib>
-                    <indTot>1</indTot>
-                </prod>
-                <dimensoesProduto>
-                    <altura unidade="CMT">24</altura>
-                    <largura unidade="CMT">13</largura>
-                    <comprimento unidade="CMT">1</comprimento>
-                </dimensoesProduto>
-                <imposto>
-                    <vTotTrib>1.25</vTotTrib>
-                    <ICMS>
-                        <ICMS40>
-                            <orig>0</orig>
-                            <CST>40</CST>
-                        </ICMS40>
-                    </ICMS>
-                    <IPI>
-                        <cEnq>999</cEnq>
-                        <IPINT>
-                            <CST>52</CST>
-                        </IPINT>
-                    </IPI>
-                    <PIS>
-                        <PISNT>
-                            <CST>06</CST>
-                        </PISNT>
-                    </PIS>
-                    <COFINS>
-                        <COFINSNT>
-                            <CST>06</CST>
-                        </COFINSNT>
-                    </COFINS>
-                </imposto>
-            </det>
-            <det nItem="10">
-                <prod>
-                    <cProd>FA04</cProd>
-                    <cEAN>7898935525315</cEAN>
-                    <xProd>FARINHA UARINI SOBERANA</xProd>
-                    <NCM>11062000</NCM>
-                    <CFOP>5102</CFOP>
-                    <uCom>PCT</uCom>
-                    <qCom>1.0000</qCom>
-                    <vUnCom>4.5200</vUnCom>
-                    <vProd>4.52</vProd>
-                    <cEANTrib>7898935525315</cEANTrib>
-                    <uTrib>PCT</uTrib>
-                    <qTrib>1.0000</qTrib>
-                    <vUnTrib>4.5200</vUnTrib>
-                    <indTot>1</indTot>
-                </prod>
-                <dimensoesProduto>
-                    <altura unidade="CMT">24</altura>
-                    <largura unidade="CMT">13</largura>
-                    <comprimento unidade="CMT">1</comprimento>
-                </dimensoesProduto>
-                <imposto>
-                    <vTotTrib>1.51</vTotTrib>
-                    <ICMS>
-                        <ICMS40>
-                            <orig>0</orig>
-                            <CST>40</CST>
-                        </ICMS40>
-                    </ICMS>
-                    <IPI>
-                        <cEnq>999</cEnq>
-                        <IPINT>
-                            <CST>52</CST>
-                        </IPINT>
-                    </IPI>
-                    <PIS>
-                        <PISNT>
-                            <CST>06</CST>
-                        </PISNT>
-                    </PIS>
-                    <COFINS>
-                        <COFINSNT>
-                            <CST>06</CST>
-                        </COFINSNT>
-                    </COFINS>
-                </imposto>
-            </det>
+    <prod>
+        <cProd>FA02</cProd>
+        <cEAN>7898935525339</cEAN>
+        <xProd>FARINHA CRUZEIRO (BRANCA) SOBERANA</xProd>
+        <NCM>11062000</NCM>
+        <CFOP>5102</CFOP>
+        <uCom>PCT</uCom>
+        <qCom>1.0000</qCom>
+        <vUnCom>3.8400</vUnCom>
+        <vProd>3.84</vProd>
+        <cEANTrib>7898935525339</cEANTrib>
+        <uTrib>PCT</uTrib>
+        <qTrib>1.0000</qTrib>
+        <vUnTrib>3.8400</vUnTrib>
+        <indTot>1</indTot>
+    </prod>
+    <dimensoesProduto>
+        <altura unidade="CMT">24</altura>
+        <largura unidade="CMT">13</largura>
+        <comprimento unidade="CMT">1</comprimento>
+    </dimensoesProduto>
+    <imposto>
+        <vTotTrib>1.28</vTotTrib>
+        <ICMS>
+            <ICMS40>
+                <orig>0</orig>
+                <CST>40</CST>
+            </ICMS40>
+        </ICMS>
+        <IPI>
+            <cEnq>999</cEnq>
+            <IPINT>
+                <CST>52</CST>
+            </IPINT>
+        </IPI>
+        <PIS>
+            <PISNT>
+                <CST>06</CST>
+            </PISNT>
+        </PIS>
+        <COFINS>
+            <COFINSNT>
+                <CST>06</CST>
+            </COFINSNT>
+        </COFINS>
+    </imposto>
+</det>
+<det nItem="2">
+    <prod>
+        <cProd>GO06</cProd>
+        <cEAN>7898935525339</cEAN>
+        <xProd>FARINHA CRUZEIRO (BRANCA) SOBERANA</xProd>
+        <NCM>11062000</NCM>
+        <CFOP>5102</CFOP>
+        <uCom>PCT</uCom>
+        <qCom>1.0000</qCom>
+        <vUnCom>10.0000</vUnCom>
+        <vProd>10.00</vProd>
+        <cEANTrib>7898935525339</cEANTrib>
+        <uTrib>PCT</uTrib>
+        <qTrib>1.0000</qTrib>
+        <vUnTrib>10.0000</vUnTrib>
+        <indTot>1</indTot>
+    </prod>
+    <dimensoesProduto>
+        <altura unidade="CMT">24</altura>
+        <largura unidade="CMT">13</largura>
+        <comprimento unidade="CMT">1</comprimento>
+    </dimensoesProduto>
+    <imposto>
+        <vTotTrib>3.35</vTotTrib>
+        <ICMS>
+            <ICMS40>
+                <orig>0</orig>
+                <CST>40</CST>
+            </ICMS40>
+        </ICMS>
+        <IPI>
+            <cEnq>999</cEnq>
+            <IPINT>
+                <CST>52</CST>
+            </IPINT>
+        </IPI>
+        <PIS>
+            <PISNT>
+                <CST>06</CST>
+            </PISNT>
+        </PIS>
+        <COFINS>
+            <COFINSNT>
+                <CST>06</CST>
+            </COFINSNT>
+        </COFINS>
+    </imposto>
+</det>
+<det nItem="3">
+    <prod>
+        <cProd>FA07</cProd>
+        <cEAN>7898935525353</cEAN>
+        <xProd>FARINHA CRUZEIRO (PREMIUM) SOBERANA</xProd>
+        <NCM>11062000</NCM>
+        <CFOP>5102</CFOP>
+        <uCom>PCT</uCom>
+        <qCom>1.0000</qCom>
+        <vUnCom>4.5200</vUnCom>
+        <vProd>4.52</vProd>
+        <cEANTrib>7898935525353</cEANTrib>
+        <uTrib>PCT</uTrib>
+        <qTrib>1.0000</qTrib>
+        <vUnTrib>4.5200</vUnTrib>
+        <indTot>1</indTot>
+    </prod>
+    <dimensoesProduto>
+        <altura unidade="CMT">24</altura>
+        <largura unidade="CMT">13</largura>
+        <comprimento unidade="CMT">1</comprimento>
+    </dimensoesProduto>
+    <imposto>
+        <vTotTrib>1.51</vTotTrib>
+        <ICMS>
+            <ICMS40>
+                <orig>0</orig>
+                <CST>40</CST>
+            </ICMS40>
+        </ICMS>
+        <IPI>
+            <cEnq>999</cEnq>
+            <IPINT>
+                <CST>52</CST>
+            </IPINT>
+        </IPI>
+        <PIS>
+            <PISNT>
+                <CST>06</CST>
+            </PISNT>
+        </PIS>
+        <COFINS>
+            <COFINSNT>
+                <CST>06</CST>
+            </COFINSNT>
+        </COFINS>
+    </imposto>
+</det>
+<det nItem="4">
+    <prod>
+        <cProd>GO07</cProd>
+        <cEAN>7898935525346</cEAN>
+        <xProd>FARINHA DA OVA SOBERANA</xProd>
+        <NCM>11062000</NCM>
+        <CFOP>5102</CFOP>
+        <uCom>PCT</uCom>
+        <qCom>1.0000</qCom>
+        <vUnCom>10.0000</vUnCom>
+        <vProd>10.00</vProd>
+        <cEANTrib>7898935525346</cEANTrib>
+        <uTrib>PCT</uTrib>
+        <qTrib>1.0000</qTrib>
+        <vUnTrib>10.0000</vUnTrib>
+        <indTot>1</indTot>
+    </prod>
+    <dimensoesProduto>
+        <altura unidade="CMT">24</altura>
+        <largura unidade="CMT">13</largura>
+        <comprimento unidade="CMT">1</comprimento>
+    </dimensoesProduto>
+    <imposto>
+        <vTotTrib>3.35</vTotTrib>
+        <ICMS>
+            <ICMS40>
+                <orig>0</orig>
+                <CST>40</CST>
+            </ICMS40>
+        </ICMS>
+        <IPI>
+            <cEnq>999</cEnq>
+            <IPINT>
+                <CST>52</CST>
+            </IPINT>
+        </IPI>
+        <PIS>
+            <PISNT>
+                <CST>06</CST>
+            </PISNT>
+        </PIS>
+        <COFINS>
+            <COFINSNT>
+                <CST>06</CST>
+            </COFINSNT>
+        </COFINS>
+    </imposto>
+</det>
+<det nItem="5">
+    <prod>
+        <cProd>FA03</cProd>
+        <cEAN>7898935525346</cEAN>
+        <xProd>FARINHA DA OVA SOBERANA</xProd>
+        <NCM>11062000</NCM>
+        <CFOP>5102</CFOP>
+        <uCom>PCT</uCom>
+        <qCom>1.0000</qCom>
+        <vUnCom>5.3100</vUnCom>
+        <vProd>5.31</vProd>
+        <cEANTrib>7898935525346</cEANTrib>
+        <uTrib>PCT</uTrib>
+        <qTrib>1.0000</qTrib>
+        <vUnTrib>5.3100</vUnTrib>
+        <indTot>1</indTot>
+    </prod>
+    <dimensoesProduto>
+        <altura unidade="CMT">24</altura>
+        <largura unidade="CMT">13</largura>
+        <comprimento unidade="CMT">1</comprimento>
+    </dimensoesProduto>
+    <imposto>
+        <vTotTrib>1.78</vTotTrib>
+        <ICMS>
+            <ICMS40>
+                <orig>0</orig>
+                <CST>40</CST>
+            </ICMS40>
+        </ICMS>
+        <IPI>
+            <cEnq>999</cEnq>
+            <IPINT>
+                <CST>52</CST>
+            </IPINT>
+        </IPI>
+        <PIS>
+            <PISNT>
+                <CST>06</CST>
+            </PISNT>
+        </PIS>
+        <COFINS>
+            <COFINSNT>
+                <CST>06</CST>
+            </COFINSNT>
+        </COFINS>
+    </imposto>
+</det>
+<det nItem="6">
+    <prod>
+        <cProd>FA06</cProd>
+        <cEAN>7898935525360</cEAN>
+        <xProd>FARINHA DA OVINHA DE FEIRA PREMIUM SOBERANA</xProd>
+        <NCM>11062000</NCM>
+        <CFOP>5102</CFOP>
+        <uCom>PCT</uCom>
+        <qCom>1.0000</qCom>
+        <vUnCom>6.7600</vUnCom>
+        <vProd>6.76</vProd>
+        <cEANTrib>7898935525360</cEANTrib>
+        <uTrib>PCT</uTrib>
+        <qTrib>1.0000</qTrib>
+        <vUnTrib>6.7600</vUnTrib>
+        <indTot>1</indTot>
+    </prod>
+    <dimensoesProduto>
+        <altura unidade="CMT">24</altura>
+        <largura unidade="CMT">13</largura>
+        <comprimento unidade="CMT">1</comprimento>
+    </dimensoesProduto>
+    <imposto>
+        <vTotTrib>2.26</vTotTrib>
+        <ICMS>
+            <ICMS40>
+                <orig>0</orig>
+                <CST>40</CST>
+            </ICMS40>
+        </ICMS>
+        <IPI>
+            <cEnq>999</cEnq>
+            <IPINT>
+                <CST>52</CST>
+            </IPINT>
+        </IPI>
+        <PIS>
+            <PISNT>
+                <CST>06</CST>
+            </PISNT>
+        </PIS>
+        <COFINS>
+            <COFINSNT>
+                <CST>06</CST>
+            </COFINSNT>
+        </COFINS>
+    </imposto>
+</det>
+<det nItem="7">
+    <prod>
+        <cProd>GO08</cProd>
+        <cEAN>7898935525322</cEAN>
+        <xProd>FARINHA DA OVINHA SOBERANA</xProd>
+        <NCM>11062000</NCM>
+        <CFOP>5102</CFOP>
+        <uCom>PCT</uCom>
+        <qCom>1.0000</qCom>
+        <vUnCom>10.0000</vUnCom>
+        <vProd>10.00</vProd>
+        <cEANTrib>7898935525322</cEANTrib>
+        <uTrib>PCT</uTrib>
+        <qTrib>1.0000</qTrib>
+        <vUnTrib>10.0000</vUnTrib>
+        <indTot>1</indTot>
+    </prod>
+    <dimensoesProduto>
+        <altura unidade="CMT">24</altura>
+        <largura unidade="CMT">13</largura>
+        <comprimento unidade="CMT">1</comprimento>
+    </dimensoesProduto>
+    <imposto>
+        <vTotTrib>3.35</vTotTrib>
+        <ICMS>
+            <ICMS40>
+                <orig>0</orig>
+                <CST>40</CST>
+            </ICMS40>
+        </ICMS>
+        <IPI>
+            <cEnq>999</cEnq>
+            <IPINT>
+                <CST>52</CST>
+            </IPINT>
+        </IPI>
+        <PIS>
+            <PISNT>
+                <CST>06</CST>
+            </PISNT>
+        </PIS>
+        <COFINS>
+            <COFINSNT>
+                <CST>06</CST>
+            </COFINSNT>
+        </COFINS>
+    </imposto>
+</det>
+<det nItem="8">
+    <prod>
+        <cProd>FA01</cProd>
+        <cEAN>7898935525322</cEAN>
+        <xProd>FARINHA DA OVINHA SOBERANA</xProd>
+        <NCM>11062000</NCM>
+        <CFOP>5102</CFOP>
+        <uCom>PCT</uCom>
+        <qCom>1.0000</qCom>
+        <vUnCom>6.2000</vUnCom>
+        <vProd>6.20</vProd>
+        <cEANTrib>7898935525322</cEANTrib>
+        <uTrib>PCT</uTrib>
+        <qTrib>1.0000</qTrib>
+        <vUnTrib>6.2000</vUnTrib>
+        <indTot>1</indTot>
+    </prod>
+    <dimensoesProduto>
+        <altura unidade="CMT">24</altura>
+        <largura unidade="CMT">13</largura>
+        <comprimento unidade="CMT">1</comprimento>
+    </dimensoesProduto>
+    <imposto>
+        <vTotTrib>2.07</vTotTrib>
+        <ICMS>
+            <ICMS40>
+                <orig>0</orig>
+                <CST>40</CST>
+            </ICMS40>
+        </ICMS>
+        <IPI>
+            <cEnq>999</cEnq>
+            <IPINT>
+                <CST>52</CST>
+            </IPINT>
+        </IPI>
+        <PIS>
+            <PISNT>
+                <CST>06</CST>
+            </PISNT>
+        </PIS>
+        <COFINS>
+            <COFINSNT>
+                <CST>06</CST>
+            </COFINSNT>
+        </COFINS>
+    </imposto>
+</det>
+<det nItem="9">
+    <prod>
+        <cProd>FA05</cProd>
+        <cEAN>7898935525308</cEAN>
+        <xProd>FARINHA DAGUA SOBERANA</xProd>
+        <NCM>11062000</NCM>
+        <CFOP>5102</CFOP>
+        <uCom>PCT</uCom>
+        <qCom>1.0000</qCom>
+        <vUnCom>3.7300</vUnCom>
+        <vProd>3.73</vProd>
+        <cEANTrib>7898935525308</cEANTrib>
+        <uTrib>PCT</uTrib>
+        <qTrib>1.0000</qTrib>
+        <vUnTrib>3.7300</vUnTrib>
+        <indTot>1</indTot>
+    </prod>
+    <dimensoesProduto>
+        <altura unidade="CMT">24</altura>
+        <largura unidade="CMT">13</largura>
+        <comprimento unidade="CMT">1</comprimento>
+    </dimensoesProduto>
+    <imposto>
+        <vTotTrib>1.25</vTotTrib>
+        <ICMS>
+            <ICMS40>
+                <orig>0</orig>
+                <CST>40</CST>
+            </ICMS40>
+        </ICMS>
+        <IPI>
+            <cEnq>999</cEnq>
+            <IPINT>
+                <CST>52</CST>
+            </IPINT>
+        </IPI>
+        <PIS>
+            <PISNT>
+                <CST>06</CST>
+            </PISNT>
+        </PIS>
+        <COFINS>
+            <COFINSNT>
+                <CST>06</CST>
+            </COFINSNT>
+        </COFINS>
+    </imposto>
+</det>
+<det nItem="10">
+    <prod>
+        <cProd>FA04</cProd>
+        <cEAN>7898935525315</cEAN>
+        <xProd>FARINHA UARINI SOBERANA</xProd>
+        <NCM>11062000</NCM>
+        <CFOP>5102</CFOP>
+        <uCom>PCT</uCom>
+        <qCom>1.0000</qCom>
+        <vUnCom>4.5200</vUnCom>
+        <vProd>4.52</vProd>
+        <cEANTrib>7898935525315</cEANTrib>
+        <uTrib>PCT</uTrib>
+        <qTrib>1.0000</qTrib>
+        <vUnTrib>4.5200</vUnTrib>
+        <indTot>1</indTot>
+    </prod>
+    <dimensoesProduto>
+        <altura unidade="CMT">24</altura>
+        <largura unidade="CMT">13</largura>
+        <comprimento unidade="CMT">1</comprimento>
+    </dimensoesProduto>
+    <imposto>
+        <vTotTrib>1.51</vTotTrib>
+        <ICMS>
+            <ICMS40>
+                <orig>0</orig>
+                <CST>40</CST>
+            </ICMS40>
+        </ICMS>
+        <IPI>
+            <cEnq>999</cEnq>
+            <IPINT>
+                <CST>52</CST>
+            </IPINT>
+        </IPI>
+        <PIS>
+            <PISNT>
+                <CST>06</CST>
+            </PISNT>
+        </PIS>
+        <COFINS>
+            <COFINSNT>
+                <CST>06</CST>
+            </COFINSNT>
+        </COFINS>
+    </imposto>
+</det>
